@@ -1,0 +1,25 @@
+{
+    // Controls the font size.
+    "editor.fontSize": 17,
+    // The number of spaces a tab is equal to.
+    "editor.tabSize": 2,
+    // The default character set encoding to use when reading and writing files.
+    "files.encoding": "iso88591",
+    "files.associations": {
+        "*.asp": "asp"
+    },
+    // Controls whether the editor should render indent guides
+    "editor.renderIndentGuides": true,
+    "editor.minimap.enabled": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "files.autoGuessEncoding": true,
+    "explorer.openEditors.visible": 9,
+    "editor.fontWeight": "normal",
+    "workbench.iconTheme": "vs-seti",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "emmet.useNewEmmet": true
+}
